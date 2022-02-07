@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vocaenglish">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:name=".luyentap.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.VoCaEngLish">
+        <activity
+            android:name=".DuLieu"
+            android:exported="true" />
+        <activity
+            android:name=".Setting_doimatkhau"
+            android:exported="true" />
+        <activity
+            android:name=".List.Unit1_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".luyentap.V_Main"
+            android:exported="true" />
+        <activity
+            android:name=".List.vaothi_nghe.VaoThi_KetQua_Nghe"
+            android:exported="true" />
+        <activity
+            android:name=".List.vaothi_nghe.VaoThi_Nghe"
+            android:exported="true" />
+        <activity
+            android:name=".List.vaothi_tuvung.VaoThi_KetQua_TuVung"
+            android:exported="true" />
+        <activity
+            android:name=".List.vaothi_tuvung.VaoThi_TuVung"
+            android:exported="true" />
+        <activity
+            android:name=".List.vaohoc_nghe.Unit_VaoHoc_Activity_Nghe"
+            android:exported="true" />
+        <activity
+            android:name=".List.vaohoc_tuvung.Unit_VaoHoc_Activity_TuVung"
+            android:exported="true" />
+        <activity
+            android:name=".List.chitiettuvung.Unit1_Activity_XemDanhSach"
+            android:exported="true"
+            android:parentActivityName=".List.Unit1_Activity" />
+        <activity
+            android:name=".List.chitiettuvung.Unit1_Activity_ChiTietTuVung"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".StartActivity2"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

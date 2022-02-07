@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:id="@+id/Retet"
+            android:background="@color/color_tim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/btn_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:src="@drawable/icon_backk_trang" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Vào Thi Từ Vựng"
+                android:textColor="@color/color_trang"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/dau"
+                android:layout_width="wrap_content"
+                android:text="1"
+                android:textColor="@color/color_den"
+                android:textSize="40dp"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="/"
+                android:textColor="@color/color_den"
+                android:textSize="40dp"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/cuoi"
+                android:layout_width="wrap_content"
+                android:text="40"
+                android:textColor="@color/color_den"
+                android:textSize="40dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="80dp"
+            android:id="@+id/tv_cauhoi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cau hoi"
+            android:textColor="@color/color_den"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/et_traloi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nhập đáp án"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/custom_edittext_xanhduong"
+            android:textColor="@color/color_den"
+            android:textSize="30dp" />
+
+        <Button
+            android:id="@+id/btn_hoanthanh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hoàn Thành"
+            android:padding="10dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/custom_button_xanhduong"
+            />
+
+        <TextView
+            android:id="@+id/tv_DapAn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dap an"
+            android:visibility="gone"
+            android:textSize="30dp" />
+
+        <Button
+            android:id="@+id/btn_oki"
+            android:layout_marginTop="90dp"
+            android:text="Oki"
+            android:layout_width="wrap_content"
+            android:visibility="gone"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+
+</layout>

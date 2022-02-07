@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/color_trang">
+
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/tv_CauHoi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:text="Câu hỏi"
+        android:textColor="@color/color_do"
+        android:textSize="50dp" />
+
+    <EditText
+        android:layout_marginTop="50dp"
+        android:id="@+id/et_TraLoi"
+        android:textSize="30dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/custom_edittext_xanhduong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_CauHoi"
+        android:hint="Nhập đáp án" />
+
+    <Button
+        android:layout_marginTop="40dp"
+        android:id="@+id/btn_HoanThanh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_TraLoi"
+        android:text="Hoàn thành"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/color_den"
+        android:background="@drawable/custom_button_xanhduong"
+        />
+
+
+
+    <Button
+        android:id="@+id/btn_XemDapAn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_DapAn"
+        android:background="@color/color_do"
+        android:text="Xem đáp án"
+        android:textAllCaps="false"
+        android:textSize="20dp"
+        android:visibility="gone"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="90dp"
+        android:textColor="@color/color_den" />
+    <TextView
+        android:id="@+id/tv_DapAn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_HoanThanh"
+        android:layout_marginTop="10dp"
+        android:text="Đáp án"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/color_trang"
+        android:textSize="30dp" />
+
+</LinearLayout>

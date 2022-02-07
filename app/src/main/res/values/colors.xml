@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_den">#0B0A0B</color>
+    <color name="color_vang">#B3AA04</color>
+    <color name="color_vangdam">#FFEB3B</color>
+    <color name="color_xanhduong_dam">#0C59DD</color>
+    <color name="color_xanhduong_nhat2">#5C90EA</color>
+    <color name="color_xanhla">#3FB80C</color>
+    <color name="color_tim">#900F9E</color>
+    <color name="color_do">#E10707</color>
+    <color name="color_trang">#F1EEEE</color>
+    <color name="color_trangtinh">#FFFFFF</color>
+    <color name="color_xanhduong_nhat">#03A9F4</color>
+    <color name="color_mau">#64686A</color>
+
+
+</resources>

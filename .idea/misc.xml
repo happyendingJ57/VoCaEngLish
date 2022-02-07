@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable-v24/a_button.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable-v24/a_edit_text.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/a_button.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/a_edit_text.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/button_background.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/custom.xml" value="1.1392857142857142" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/custom_background.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/custom_button.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/custom_button_xanhduong.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/custom_edittext.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/custom_edittext_tim.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/custom_edittext_xanhduong.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/custom_edittext_xanhduong_cong.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/edittext_background.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/drawable/view_background.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/a_activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/a_activity_vmain.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/a_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_dulieu.xml" value="0.20833333333333334" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_list_unit.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_login1.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_luyentap_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_main2222.xml" value="0.1" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_nahp.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_setting_doimatkhau.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_start.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_start2.xml" value="0.19010416666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_unit1.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_unit1_chi_tiet_tu_vung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_unit1_xem_danh_sach.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_unit_vao_hoc_activitu_tu_vung.xml" value="0.1" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_unit_vaohoc.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_unit_vaohoc1.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_unit_vaohoc_nghe.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_unit_vaohoc_tuvung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_vaothi_ketqua.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_vaothi_ketqua_nghe.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_vaothi_nghe.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_vaothi_tuvung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/activity_vaothi_tuvungg.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/chitiet_tuvung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/demo_profile.xml" value="0.18" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/demo_unit_vaohoc_nghe_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/demo_unit_vaohoc_tuvung_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_dangki.xml" value="0.22" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_dangnhap.xml" value="0.33" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_home_unit1.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_list_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_luyentap_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_mylist_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_setting_menu.xml" value="0.25" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_setting_menu_thongbao.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_unit_vao_nghia.xml" value="0.1" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_unit_vaohoc_nghe.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_unit_vaohoc_nghia.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_unit_vaohoc_tuvung.xml" value="0.1" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/fragment_vaohoc_tuvung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/iteam_chude.xml" value="0.33" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/item_chitiet_tuvung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/item_chude.xml" value="0.33" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/item_list_dapan_vaothi_nghe.xml" value="0.33" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/item_list_dapan_vaothi_tuvung.xml" value="0.16" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/item_tuvung.xml" value="0.33" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/item_tuvung_luyentap.xml" value="0.19021739130434784" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/list_chude.xml" value="0.5" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/list_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/list_unit.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/login_tab_fagment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/nhap_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/signup_tab_fagment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/unit1_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/unit1_fragment_xemdanhsach.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/unit_vaohoc.xml" value="0.22" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/unit_vaohoc_activity_nghe.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/unit_vaohoc_amthanh_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/unit_vaohoc_cauhoi_fragment.xml" value="0.25" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/unit_vaohoc_nghe_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/unit_vaothi.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/layout/vaohoc_nghe_fragment.xml" value="0.2" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/menu/menu_chude.xml" value="0.2" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLish/app/src/main/res/xml/xml.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/drawable/custom_background.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/drawable/custom_button.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/drawable/custom_button_xanhduong.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/drawable/custom_edittext.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/drawable/custom_edittext_tim.xml" value="0.2203125" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/a_activity_vmain.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/a_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_dulieu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_setting_doimatkhau.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_start2.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_unit1.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_unit1_chi_tiet_tu_vung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_unit1_xem_danh_sach.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_unit_vaohoc.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_vaothi_ketqua.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_vaothi_ketqua_nghe.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_vaothi_nghe.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/activity_vaothi_tuvung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/demo_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/fragment_batdauluyentap.xml" value="0.36666666666666664" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/fragment_dangki.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/fragment_dangnhap.xml" value="0.33" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/fragment_home_unit1.xml" value="0.25" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/fragment_luyentap_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/fragment_mylist_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/fragment_setting_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/fragment_setting_menu_thongbao.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/item_chude.xml" value="0.33" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/item_list_dapan_vaothi_nghe.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/item_list_dapan_vaothi_tuvung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/item_tuvung.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/item_tuvung_luyentap.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/list_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/unit1_fragment_xemdanhsach.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/unit_vaohoc.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/unit_vaohoc_cauhoi_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/unit_vaothi.xml" value="0.20416666666666666" />
+        <entry key="..\:/DoAn_Android44/Project/VoCaEngLishCuong/VoCaEngLish/app/src/main/res/layout/vaohoc_nghe_fragment.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

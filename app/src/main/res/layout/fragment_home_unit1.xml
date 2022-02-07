@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/Retet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_tim">
+
+            <ImageView
+                android:id="@+id/btn_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/icon_backk_trang" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Chủ đề"
+                android:textColor="@color/color_trang"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/unit1_img"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_below="@id/Retet"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/img_unit1" />
+
+        <LinearLayout
+            android:layout_centerHorizontal="true"
+            android:id="@+id/linearChuDe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/unit1_img"
+            android:layout_marginTop="8dp">
+            <TextView
+                android:textColor="@color/color_xanhduong_nhat"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/unit1_img"
+                android:text="Recent developments"
+                android:textSize="30dp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_centerHorizontal="true"
+            android:id="@+id/linearSoTu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/linearChuDe"
+            android:layout_marginTop="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Số từ:"
+                android:textColor="@color/color_den"
+                android:textSize="30dp" />
+
+            <TextView
+                android:id="@+id/unit1_soTu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:text="6"
+                android:textColor="@color/color_den"
+                android:textSize="30dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="từ"
+                android:textColor="@color/color_den"
+                android:textSize="30dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_centerHorizontal="true"
+            android:id="@+id/linearMucDo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/linearSoTu"
+            android:layout_marginTop="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mức độ:"
+                android:textColor="@color/color_den"
+                android:textSize="30dp" />
+
+            <TextView
+                android:id="@+id/unit1_MucDo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="Khó"
+                android:textColor="@color/color_den"
+                android:textSize="30dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/linearMucDo">
+
+            <Button
+                android:id="@+id/btn_XemDanhSach"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/custom_button"
+                android:text="Xem danh sách"
+                android:textColor="@color/color_den" />
+
+            <Button
+                android:id="@+id/btn_VaoHoc"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/custom_button"
+                android:text="Vào Học"
+                android:textColor="@color/color_den" />
+
+            <Button
+                android:id="@+id/btn_VaoThi"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/custom_button"
+                android:text="Vào Thi"
+                android:textColor="@color/color_den" />
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</layout>

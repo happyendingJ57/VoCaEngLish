@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VoCaEngLish</string>
+    <!-- Activity Login-->
+    <string name="btn_DangNhap">Đăng nhập</string>
+    <string name="btn_DangKi">Đăng kí</string>
+    <!-- Fragment Setting-->
+    <string name="tv_NameUser">Đạt Lưu</string>
+    <string name="tv_TrangCaNhanUser">Trang cá nhân của bạn</string>
+    <string name="tv_PhienBan">2021.0.0.1</string>
+    <string name="tv_DatLichHoc">Thông báo</string>
+    <string name="tv_TaiLieuHuongDan">Tài liệu hướng dẫn</string>
+    <string name="tv_GopY">Góp ý với chúng tôi</string>
+    <string name="tv_DanhGia">Đánh giá của bạn</string>
+    <string name="tv_NgonNgu">Ngôn ngữ</string>
+    <string name="tv_DangXuat">Đăng xuất</string>
+    <string name="tv_VoNghia">The law states that the age where a man can get married is from 20, and that the age where a woman can get married is from 18. At these age, everybody is physically and spychologically old enough to give birth, to bring up and to take care of their children. Moreover, their general knowledge about life is pretty enough for them to live on their own.However, those are not the best ages since a couple needs a stable job to make enough money for their living and to support the family. They also have to be mature in their thought, to have the ability to think by themselves, to make their own decisions, to face difficulties and to solve problems. In my opinion, for women, 33 is the most common age, while its 34 for men - putting both sexes just shy of the ideal 28-32 range.In general, a person graduates from university (or other schools) is about 22, they’ll get a job at about 23. They need some more years to build up experiences, to save money, to strengthen their relationship with others and their positions in work. That is, the best age for men is 30 or so, for women is 28 or so. Marrying at the age 25-30 are the fabulous, fun days of discovery where you’re finding out who you really are, what you ultimately want to do with your life, and what becomes meaningful to you personally. Dating at the age of 20s and 30s will make you feel like the belle of the ball.</string>
+
+    <!--Activity Home-->
+    <string name="btn_TrangChu">Trang chủ</string>
+    <string name="btn_TuHoc">Tự học</string>
+    <string name="btn_LuyenTap">Luyện tập</string>
+    <string name="btn_CaiDat">Cài Đặt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
